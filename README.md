@@ -1,9 +1,6 @@
-# Hello 
-
-I'm Prajakta Joshi  
+# Hello ,I'm Prajakta Joshi  
 
 🚀 MCA Student | 💻 Full-Stack Developer  
-A passionate MCA student with a BBA-CA background (CGPA 9.25), eager to apply technical and analytical skills in real-world software development.  
 
 ---
 
